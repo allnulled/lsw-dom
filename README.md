@@ -1,4 +1,4 @@
-#lsw-dom
+# lsw-dom
 
 DOM utilities for LSW.
 
